@@ -21,7 +21,6 @@
 
 ### I love Music🎵
 <div>
-  
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffc1cc&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy))
 </div>
 
