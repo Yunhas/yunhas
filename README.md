@@ -19,6 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
 
 &nbsp;<div>
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffc1cc&border_color=ffffff)]([])
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffc1cc&border_color=ff73a9)]([])
 </div>
 
