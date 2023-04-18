@@ -20,7 +20,7 @@
 
 
 ### I love Music🎵
-&nbsp;<div>
+<div>
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffc1cc&border_color=ffffff)]([])
 </div>
 
