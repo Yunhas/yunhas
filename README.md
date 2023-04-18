@@ -20,7 +20,8 @@
 
 
 ### I love Music🎵
-<div>
+
+&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffc1cc&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
