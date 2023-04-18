@@ -18,7 +18,7 @@
 ### Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
 
-&nbsp;<div align="center">
+&nbsp;<div>
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([])
 </div>
 
