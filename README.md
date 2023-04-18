@@ -19,6 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy?highlight=spotify:track:348NF6vX0Yh22xvH0EZEro](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro))
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro])
 </div>
 
