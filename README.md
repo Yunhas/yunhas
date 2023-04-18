@@ -10,9 +10,7 @@
 
 
 ### My Github Stats
-![YunHa's Github Stats](https://github-readme-stats.vercel.app/api?username=Yunhas&show_icons=true&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
+![YunHa's Github Stats](https://github-readme-stats.vercel.app/api?username=Yunhas&show_icons=true&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
 
 
 
